@@ -21,7 +21,7 @@ export default function App() {
       {/* Header Section */}
       <header className="h-20 px-6 border-b border-border flex justify-between items-center bg-surface">
         <div className="brand">
-          <h1 className="text-2xl font-bold tracking-tight text-accent uppercase">EJAZKAREEM</h1>
+          <h1 className="text-2xl font-bold tracking-tight text-accent uppercase">EJAZ KAREEM</h1>
           <p className="text-xs text-text-dim">Vintage Wireless Collector & Radio Historian</p>
         </div>
         <Clock />
@@ -37,8 +37,7 @@ export default function App() {
               Welcome to my digital workshop. I have been collecting and restoring vintage valve radios for over 20 years. My passion lies in shortwave frequencies and the golden age of broadcasting.
             </p>
             <div className="text-xs space-y-1">
-              <div className="text-accent">Email: Radiolover@yahoo.com</div>
-              <div className="text-text-dim">PH: +92 300 4100000</div>
+              <div className="text-text-dim">PH: +92 300 4102081</div>
             </div>
           </div>
 
